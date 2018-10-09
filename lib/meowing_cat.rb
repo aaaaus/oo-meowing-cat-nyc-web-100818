@@ -2,9 +2,9 @@ require "pry"
 
 ## code your solution here. 
 class Cat
-binding.pry  
   
 def initialize(name)
+  binding.pry
   @name = name
 end
   
