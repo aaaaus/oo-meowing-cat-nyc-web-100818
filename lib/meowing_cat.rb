@@ -1,7 +1,10 @@
+require "pry"
+
 ## code your solution here. 
 class Cat
   
 def initialize(name)
+binding.pry
   @name = name
 end
   
