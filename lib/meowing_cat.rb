@@ -2,6 +2,7 @@
 class Cat
   
   def initialize
+    @name = name
   
   attr_accessor :name
   
